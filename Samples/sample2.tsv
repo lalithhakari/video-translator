@@ -1,0 +1,3 @@
+start	end	text
+0	10000	Hello friends, today we are going to see how we can generate subtitles with the help of the whisper AI tool and we are also going to use the docker.
+10000	12000	So, let's see.

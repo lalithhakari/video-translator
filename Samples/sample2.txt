@@ -1,0 +1,2 @@
+Hello friends, today we are going to see how we can generate subtitles with the help of the whisper AI tool and we are also going to use the docker.
+So, let's see.
